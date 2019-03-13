@@ -8,7 +8,7 @@ class App extends Component {
     todos: [
       {id: 1, content: 'learn react'},
       {id: 2, content: 'learn django'},
-      {id: 3, content: 'do portfolio'}
+      {id: 3, content: 'get portfolio done!'}
     ]
   }
   deleteTodo = (id) => {
